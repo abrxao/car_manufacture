@@ -1,0 +1,24 @@
+# Rust
+/target/
+
+# Cargo
+Cargo.lock
+
+# Tokio
+**/target/
+**/Cargo.lock
+**/.rustc_info.json
+
+# IDE
+.idea/
+.vscode/
+
+# Generated files
+*.rs.bk
+
+# Temporary files
+*.swp
+*~
+
+# Executables
+/target
